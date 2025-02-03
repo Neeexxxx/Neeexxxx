@@ -6,7 +6,7 @@
 
 ## About me 🧑🏻‍💻
 
-Hi There! I'm Suraj 👋🏻
+Hi There! I'm Priyanshu Prajapati 👋🏻
 
 I'm a Developer from **India** with a passion for **Cloud** , **DevOps** ♾️ and **open-source** 🧑🏻‍💻. I'm always striving for the best **code quality** and seamless workflows. In my free time, I love traveling, reading books.
 
