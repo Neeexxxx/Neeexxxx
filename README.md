@@ -18,9 +18,9 @@ I'm a Developer from **India** with a passion for **Cloud** ☁️ , **DevOps** 
 <h4 align="center">Code ∙ Cloud ∙ Create</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yazdanhaider" alt="Profile View Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Neeexxxx" alt="Profile View Counter" />
   <a href="https://github.com/Neeexxxx">
-    <img src="https://img.shields.io/github/followers/yazdanhaider?label=Follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/Neeexxxx?label=Follow&style=social" alt="GitHub Followers" />
   </a>
 </p>
 
