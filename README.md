@@ -2,16 +2,20 @@
 
 
 <!-- SPINNING EARTH GIF -->
+
+<p align="center">
+  <img src="https://github.com/Neeexxxx/Neeexxxx/blob/main/Priyanshu-cover.jpg" alt="MastHead" />
+</p>
+
 <p align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px"> I'm</p>
 
-## About me 🧑🏻‍💻
+<h1 align="center">👋 I'm Priyanshu Prajapati</h1>
 
-Hi There! I'm Priyanshu Prajapati 👋🏻
 
 I'm a Developer from **India** with a passion for **Cloud** , **DevOps** ♾️ and **open-source** 🧑🏻‍💻. I'm always striving for the best **code quality** and seamless workflows. In my free time, I love traveling, reading books.
+##
 
-
-<h4 align="center">Plan ∙ Code ∙ Build ∙ Test ∙ Release ∙ Deploy∙ Operate ∙ Monitor </h4>
+<h4 align="center">Code ∙ Cloud ∙ Create</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yazdanhaider" alt="Profile View Counter" />
