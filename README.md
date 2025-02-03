@@ -7,12 +7,12 @@
   <img src="https://github.com/Neeexxxx/Neeexxxx/blob/main/Priyanshu-cover.jpg" alt="MastHead" />
 </p>
 
-<p align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px"> I'm</p>
+<p align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px"></p>
 
 <h1 align="center">👋 I'm Priyanshu Prajapati</h1>
 
 
-I'm a Developer from **India** with a passion for **Cloud** , **DevOps** ♾️ and **open-source** 🧑🏻‍💻. I'm always striving for the best **code quality** and seamless workflows. In my free time, I love traveling, reading books.
+I'm a Developer from **India** with a passion for **Cloud** , **DevOps** ♾️ and **open-source** 🧑🏻‍💻. I'm always striving for the best **code quality** and seamless workflows.Currently, I'm exploring Cloud and DevOps technologies, Alongside coding. In my free time, I love traveling, reading books.
 ##
 
 <h4 align="center">Code ∙ Cloud ∙ Create</h4>
