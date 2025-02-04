@@ -7,6 +7,7 @@
   <img src="https://github.com/Neeexxxx/Neeexxxx/blob/main/Priyanshu-cover.jpg" alt="MastHead" />
 </p>
 
+
 <p align="center">Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="14px"></p>
 
 <h1 align="center">👋 I'm Priyanshu Prajapati</h1>
@@ -71,7 +72,17 @@ But I'm not just a cloud enthusiast! When I'm not working on exciting cloud proj
   </a>
 </div> -->
 
-<p align="center"><strong>Holopin Badges 🎯</strong></p>
+## <p align="center">Certifications 🏆</p>
+
+<div align="center">
+  <img src="https://github.com/Neeexxxx/Neeexxxx/blob/main/priyanshu_CDL_badge.png" width="200">
+  <img src="https://github.com/Neeexxxx/Neeexxxx/blob/main/Priyanshu-AWS-Cloud-Practitioner.png" width="240">
+
+</div>
+
+
+
+## <p align="center"><strong>Holopin Badges 🎯</strong></p>
 
  <p align="center">
   <a href="https://holopin.me/priyanshu5">
