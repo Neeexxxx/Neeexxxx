@@ -75,8 +75,8 @@ But I'm not just a cloud enthusiast! When I'm not working on exciting cloud proj
 ## <p align="center">Certifications 🏆</p>
 
 <div align="center">
-  <img src="https://github.com/Neeexxxx/Neeexxxx/blob/main/priyanshu_CDL_badge.png" width="200">
-  <img src="https://github.com/Neeexxxx/Neeexxxx/blob/main/Priyanshu-AWS-Cloud-Practitioner.png" width="240">
+  <img src="https://github.com/Neeexxxx/Neeexxxx/blob/main/priyanshu_CDL_badge.png" width="150">
+  <img src="https://github.com/Neeexxxx/Neeexxxx/blob/main/Priyanshu-AWS-Cloud-Practitioner.png" width="200">
 
 </div>
 
