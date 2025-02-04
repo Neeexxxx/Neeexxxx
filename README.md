@@ -11,9 +11,16 @@
 
 <h1 align="center">👋 I'm Priyanshu Prajapati</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Cloud+Enthusiast! 🚀;and+Google+Cloud+Facilitator ⚡&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p> 
 
-I'm a Developer from **India** with a passion for **Cloud** ☁️ , **DevOps** ♾️ and **open-source** 🧑🏻‍💻. I'm always striving for the best **code quality** and seamless workflows to build efficient and scalable solutions. Currently, I'm exploring Cloud and DevOps technologies, alongside coding. I am a **Google Cloud Arcade Facilitator** ⚡ certified as a **Google Cloud Digital Leader** and **AWS Cloud Practitioner** 🏆. 
-In my free time, I love traveling ✈️, reading books 📚.
+I'm a Developer from **India** with a passion for **Cloud** ☁️ , **DevOps** ♾️ and **open-source** 🧑🏻‍💻. I'm always striving for the best **code quality** and seamless workflows to build efficient and scalable solutions. Currently, I'm exploring Cloud and DevOps technologies, alongside coding. 
+
+My passion for technology and innovation has led me to become Fully-certified in **Google Cloud** and **Amazon Web Services (AWS)**, always seeking new ways to leverage cloud technologies for innovative solutions.
+
+But I'm not just a cloud enthusiast! When I'm not working on exciting cloud projects, you can find me exploring the outdoors 🌿, traveling to new places ✈️ and enjoying immersive mobile games 🎮. I'm constantly inspired by the beauty of nature🌄 and the amazing places I get to visit 🌍, along with trying amazing food 🍲.
+
 ##
 
 <h4 align="center">Code ∙ Cloud ∙ Create</h4>
