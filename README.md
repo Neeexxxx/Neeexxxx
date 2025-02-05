@@ -42,7 +42,7 @@ But I'm not just a cloud enthusiast! When I'm not working on exciting cloud proj
   🌐 Mobile Application Developer<br>
   
 
-  🚀 I'm on track for learning about <b>Golang</b>, <b>Cloud</b>, <b>DevOps</b>, <b>Solve DSA Questions</b>.<br>
+  🚀 I'm on track for learning about <b>Cloud</b>, <b>DevOps</b>, <b>Solve DSA Questions</b>.<br>
   
   🔥 I really love the thrill of making what I want possible!<br>
   
