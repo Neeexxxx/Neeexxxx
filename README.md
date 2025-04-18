@@ -13,10 +13,10 @@
 <h1 align="center">👋 I'm Priyanshu Prajapati</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Cloud+Enthusiast! 🚀;and+Google+Cloud+Facilitator ⚡&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&width=435&lines=I'm+Cloud+Enthusiast!;Google+Cloud+Facilitator" alt="Typing SVG" /></a>
+</p>
 
-I'm a Developer from **India** with a passion for **Cloud** ☁️ , **DevOps** ♾️ and **open-source** 🧑🏻‍💻. I'm always striving for the best **code quality** and seamless workflows to build efficient and scalable solutions. Currently, I'm exploring Cloud and DevOps technologies, alongside coding. 
+I'm a Developer from **India** with a passion for **Cloud** ☁️ , **DevOps** ♾️ and **Open-Source** 🧑🏻‍💻. I'm always striving for the best **code quality** and seamless workflows to build efficient and scalable solutions. Currently, I'm exploring Cloud and DevOps technologies, alongside coding. 
 
 My passion for technology and innovation has led me to become Fully-certified in **Google Cloud** and **Amazon Web Services (AWS)**, always seeking new ways to leverage cloud technologies for innovative solutions.
 
